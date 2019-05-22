@@ -1,0 +1,2 @@
+CITATIONS:
+	- man7.org/linux/man-pages/ : used to lookup signatures of memset() and memcpy()
