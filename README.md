@@ -22,6 +22,11 @@ My own implementation of malloc() and free().
       - `WORST_FIT` : finds the largest possible memory hole that can accomodate the requested size (again, traverses through the whole Free memory list).
   - Also supports the compaction function to make sure free memory is optimized.
   
+## Other supported functionalities:
+  - Can print the layout of memory chunk being managed.
+  - Can print memory statistics to console if needed.
+  - If you have ideas about other functionalities that can be added to this repo, do let me know! all ideas are highly appreciated!!
+  
 ## Documentation By:
 > Siddharth Gupta
   
